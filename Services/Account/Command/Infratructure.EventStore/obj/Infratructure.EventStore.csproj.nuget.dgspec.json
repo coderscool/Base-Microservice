@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\BaseCode\\Services\\Account\\Command\\Infratructure.EventStore\\Infratructure.EventStore.csproj": {}
+    "P:\\Base-Microservice\\Services\\Account\\Command\\Infratructure.EventStore\\Infratructure.EventStore.csproj": {}
   },
   "projects": {
-    "P:\\BaseCode\\Contracts\\Contracts.csproj": {
+    "P:\\Base-Microservice\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\BaseCode\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "P:\\Base-Microservice\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "P:\\BaseCode\\Contracts\\Contracts.csproj",
+        "projectPath": "P:\\Base-Microservice\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\FPT\\.nuget\\packages\\",
-        "outputPath": "P:\\BaseCode\\Contracts\\obj\\",
+        "outputPath": "P:\\Base-Microservice\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -91,14 +91,14 @@
         }
       }
     },
-    "P:\\BaseCode\\Services\\Account\\Command\\Application\\Application.csproj": {
+    "P:\\Base-Microservice\\Services\\Account\\Command\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\BaseCode\\Services\\Account\\Command\\Application\\Application.csproj",
+        "projectUniqueName": "P:\\Base-Microservice\\Services\\Account\\Command\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "P:\\BaseCode\\Services\\Account\\Command\\Application\\Application.csproj",
+        "projectPath": "P:\\Base-Microservice\\Services\\Account\\Command\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\FPT\\.nuget\\packages\\",
-        "outputPath": "P:\\BaseCode\\Services\\Account\\Command\\Application\\obj\\",
+        "outputPath": "P:\\Base-Microservice\\Services\\Account\\Command\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -119,11 +119,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "P:\\BaseCode\\Contracts\\Contracts.csproj": {
-                "projectPath": "P:\\BaseCode\\Contracts\\Contracts.csproj"
+              "P:\\Base-Microservice\\Contracts\\Contracts.csproj": {
+                "projectPath": "P:\\Base-Microservice\\Contracts\\Contracts.csproj"
               },
-              "P:\\BaseCode\\Services\\Account\\Command\\Domain\\Domain.csproj": {
-                "projectPath": "P:\\BaseCode\\Services\\Account\\Command\\Domain\\Domain.csproj"
+              "P:\\Base-Microservice\\Services\\Account\\Command\\Domain\\Domain.csproj": {
+                "projectPath": "P:\\Base-Microservice\\Services\\Account\\Command\\Domain\\Domain.csproj"
               }
             }
           }
@@ -157,14 +157,14 @@
         }
       }
     },
-    "P:\\BaseCode\\Services\\Account\\Command\\Domain\\Domain.csproj": {
+    "P:\\Base-Microservice\\Services\\Account\\Command\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\BaseCode\\Services\\Account\\Command\\Domain\\Domain.csproj",
+        "projectUniqueName": "P:\\Base-Microservice\\Services\\Account\\Command\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "P:\\BaseCode\\Services\\Account\\Command\\Domain\\Domain.csproj",
+        "projectPath": "P:\\Base-Microservice\\Services\\Account\\Command\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\FPT\\.nuget\\packages\\",
-        "outputPath": "P:\\BaseCode\\Services\\Account\\Command\\Domain\\obj\\",
+        "outputPath": "P:\\Base-Microservice\\Services\\Account\\Command\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -185,8 +185,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "P:\\BaseCode\\Contracts\\Contracts.csproj": {
-                "projectPath": "P:\\BaseCode\\Contracts\\Contracts.csproj"
+              "P:\\Base-Microservice\\Contracts\\Contracts.csproj": {
+                "projectPath": "P:\\Base-Microservice\\Contracts\\Contracts.csproj"
               }
             }
           }
@@ -220,14 +220,14 @@
         }
       }
     },
-    "P:\\BaseCode\\Services\\Account\\Command\\Infratructure.EventStore\\Infratructure.EventStore.csproj": {
+    "P:\\Base-Microservice\\Services\\Account\\Command\\Infratructure.EventStore\\Infratructure.EventStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\BaseCode\\Services\\Account\\Command\\Infratructure.EventStore\\Infratructure.EventStore.csproj",
+        "projectUniqueName": "P:\\Base-Microservice\\Services\\Account\\Command\\Infratructure.EventStore\\Infratructure.EventStore.csproj",
         "projectName": "Infratructure.EventStore",
-        "projectPath": "P:\\BaseCode\\Services\\Account\\Command\\Infratructure.EventStore\\Infratructure.EventStore.csproj",
+        "projectPath": "P:\\Base-Microservice\\Services\\Account\\Command\\Infratructure.EventStore\\Infratructure.EventStore.csproj",
         "packagesPath": "C:\\Users\\FPT\\.nuget\\packages\\",
-        "outputPath": "P:\\BaseCode\\Services\\Account\\Command\\Infratructure.EventStore\\obj\\",
+        "outputPath": "P:\\Base-Microservice\\Services\\Account\\Command\\Infratructure.EventStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -248,14 +248,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "P:\\BaseCode\\Contracts\\Contracts.csproj": {
-                "projectPath": "P:\\BaseCode\\Contracts\\Contracts.csproj"
+              "P:\\Base-Microservice\\Contracts\\Contracts.csproj": {
+                "projectPath": "P:\\Base-Microservice\\Contracts\\Contracts.csproj"
               },
-              "P:\\BaseCode\\Services\\Account\\Command\\Application\\Application.csproj": {
-                "projectPath": "P:\\BaseCode\\Services\\Account\\Command\\Application\\Application.csproj"
+              "P:\\Base-Microservice\\Services\\Account\\Command\\Application\\Application.csproj": {
+                "projectPath": "P:\\Base-Microservice\\Services\\Account\\Command\\Application\\Application.csproj"
               },
-              "P:\\BaseCode\\Services\\Account\\Command\\Domain\\Domain.csproj": {
-                "projectPath": "P:\\BaseCode\\Services\\Account\\Command\\Domain\\Domain.csproj"
+              "P:\\Base-Microservice\\Services\\Account\\Command\\Domain\\Domain.csproj": {
+                "projectPath": "P:\\Base-Microservice\\Services\\Account\\Command\\Domain\\Domain.csproj"
               }
             }
           }

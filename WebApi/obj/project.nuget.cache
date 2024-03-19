@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1uGezvvZCWF0w8gjwOi204iKtlGXbgCLE2H3TY/zdWS7TcPbTvcMklEnxCFWs0+r5jceVjsl7x7lEvETueIegQ==",
+  "dgSpecHash": "HvaIkdQaLiwP/ONqo8NNy0eKKAF/e07vL49t4BgKTMreFrWIEUeBGKOsXqjJ3Zo/gOEHkPg+7R3/B1HhXrXu0w==",
   "success": true,
-  "projectFilePath": "P:\\BaseCode\\WebApi\\WebApi.csproj",
+  "projectFilePath": "P:\\Base-Microservice\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FPT\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\FPT\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

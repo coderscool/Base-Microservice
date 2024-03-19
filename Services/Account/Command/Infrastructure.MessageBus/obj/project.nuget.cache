@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qJmAJTogirR2xwjE8S5CklYi74g1HlQywV4Egk1OBtDr2OcWVmlHULLet5KeQ2he2p2eeInAWB1m7Qa3X8+oWw==",
+  "dgSpecHash": "Q6wgKcjsnllI3J7pNf/lm3UrXBQxe3fa/f6NJaAl5ACWThToJlewSDfUNU6vbbBT25BfOUnkiuYypBJ70K9TiQ==",
   "success": true,
-  "projectFilePath": "P:\\BaseCode\\Services\\Account\\Command\\Infrastructure.MessageBus\\Infrastructure.MessageBus.csproj",
+  "projectFilePath": "P:\\Base-Microservice\\Services\\Account\\Command\\Infrastructure.MessageBus\\Infrastructure.MessageBus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FPT\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\FPT\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

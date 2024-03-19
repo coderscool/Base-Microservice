@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1o09hCu1W7RzMJwEKYOjIt119MIFn9D2LvMbZBz8wXvngqF1kmq72B5WEKYb6Ua9LMCScguPkodbIYSHdLQQlw==",
+  "dgSpecHash": "xOBVkbcKfXpxly0vHTpQOLFVmEZ2eKNlkaWemAFO1eQoy0Z1tNnvlZbz+uynOoIukWQJVxfc17Jl3QxsY/lu2Q==",
   "success": true,
-  "projectFilePath": "P:\\BaseCode\\Services\\Account\\Command\\Infratructure.EventStore\\Infratructure.EventStore.csproj",
+  "projectFilePath": "P:\\Base-Microservice\\Services\\Account\\Command\\Infratructure.EventStore\\Infratructure.EventStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FPT\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\FPT\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

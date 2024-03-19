@@ -1930,11 +1930,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\BaseCode\\Services\\Account\\Query\\Infratructure.Projections\\Infratructure.Projections.csproj",
+      "projectUniqueName": "P:\\Base-Microservice\\Services\\Account\\Query\\Infratructure.Projections\\Infratructure.Projections.csproj",
       "projectName": "Infratructure.Projections",
-      "projectPath": "P:\\BaseCode\\Services\\Account\\Query\\Infratructure.Projections\\Infratructure.Projections.csproj",
+      "projectPath": "P:\\Base-Microservice\\Services\\Account\\Query\\Infratructure.Projections\\Infratructure.Projections.csproj",
       "packagesPath": "C:\\Users\\FPT\\.nuget\\packages\\",
-      "outputPath": "P:\\BaseCode\\Services\\Account\\Query\\Infratructure.Projections\\obj\\",
+      "outputPath": "P:\\Base-Microservice\\Services\\Account\\Query\\Infratructure.Projections\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -1955,11 +1955,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "P:\\BaseCode\\Contracts\\Contracts.csproj": {
-              "projectPath": "P:\\BaseCode\\Contracts\\Contracts.csproj"
+            "P:\\Base-Microservice\\Contracts\\Contracts.csproj": {
+              "projectPath": "P:\\Base-Microservice\\Contracts\\Contracts.csproj"
             },
-            "P:\\BaseCode\\Services\\Account\\Query\\Application\\Application.csproj": {
-              "projectPath": "P:\\BaseCode\\Services\\Account\\Query\\Application\\Application.csproj"
+            "P:\\Base-Microservice\\Services\\Account\\Query\\Application\\Application.csproj": {
+              "projectPath": "P:\\Base-Microservice\\Services\\Account\\Query\\Application\\Application.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ENmbKgEtz0Qo/7U+zxru1/kZXQjJMY6aRQQHEooygQ1BTvyZgS0oPSQxQMGrRi2MrtNQOngdZpgzu/U+T6y/ug==",
+  "dgSpecHash": "QtuqXDzIbbQIN26agJURof/MNGjMRaDv5IhoHgsUbGS5UVk5OFZLrmYFq/F8JA1fWv3N9mXN6T1fug6VBSrBhg==",
   "success": true,
-  "projectFilePath": "P:\\BaseCode\\Services\\Account\\Query\\GrpcService1\\GrpcService1.csproj",
+  "projectFilePath": "P:\\Base-Microservice\\Services\\Account\\Query\\GrpcService1\\GrpcService1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FPT\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\FPT\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

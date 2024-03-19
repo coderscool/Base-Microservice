@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\BaseCode\\WebApi\\WebApi.csproj": {}
+    "P:\\Base-Microservice\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "P:\\BaseCode\\Contracts\\Contracts.csproj": {
+    "P:\\Base-Microservice\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\BaseCode\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "P:\\Base-Microservice\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "P:\\BaseCode\\Contracts\\Contracts.csproj",
+        "projectPath": "P:\\Base-Microservice\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\FPT\\.nuget\\packages\\",
-        "outputPath": "P:\\BaseCode\\Contracts\\obj\\",
+        "outputPath": "P:\\Base-Microservice\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -91,14 +91,14 @@
         }
       }
     },
-    "P:\\BaseCode\\WebApi\\WebApi.csproj": {
+    "P:\\Base-Microservice\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\BaseCode\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "P:\\Base-Microservice\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "P:\\BaseCode\\WebApi\\WebApi.csproj",
+        "projectPath": "P:\\Base-Microservice\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\FPT\\.nuget\\packages\\",
-        "outputPath": "P:\\BaseCode\\WebApi\\obj\\",
+        "outputPath": "P:\\Base-Microservice\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -119,8 +119,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "P:\\BaseCode\\Contracts\\Contracts.csproj": {
-                "projectPath": "P:\\BaseCode\\Contracts\\Contracts.csproj"
+              "P:\\Base-Microservice\\Contracts\\Contracts.csproj": {
+                "projectPath": "P:\\Base-Microservice\\Contracts\\Contracts.csproj"
               }
             }
           }

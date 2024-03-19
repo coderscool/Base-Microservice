@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cdqdduQOSiWvuHC3314Lc6BVvpn/KWF3vAi3d/oKis19AimR13KHbhLKUHVtjpb5qyI3LXB5VFAyEi+qyxMYKQ==",
+  "dgSpecHash": "+5VS3YaHob4bmCBYmgjTLCTOnhIFpSrNFwxFVx/Q6PqkjvKCIgvvlbLgyctyzIJtHq7c4tQ3xTO0OUedynqdWA==",
   "success": true,
-  "projectFilePath": "P:\\BaseCode\\Services\\Account\\Query\\Infratructure.Projections\\Infratructure.Projections.csproj",
+  "projectFilePath": "P:\\Base-Microservice\\Services\\Account\\Query\\Infratructure.Projections\\Infratructure.Projections.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FPT\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\FPT\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
