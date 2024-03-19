@@ -1,0 +1,17 @@
+P:\BaseCode\Services\Account\Query\Infratructure.Projections\bin\Debug\net6.0\Infratructure.Projections.deps.json
+P:\BaseCode\Services\Account\Query\Infratructure.Projections\bin\Debug\net6.0\Infratructure.Projections.dll
+P:\BaseCode\Services\Account\Query\Infratructure.Projections\bin\Debug\net6.0\Infratructure.Projections.pdb
+P:\BaseCode\Services\Account\Query\Infratructure.Projections\bin\Debug\net6.0\Application.dll
+P:\BaseCode\Services\Account\Query\Infratructure.Projections\bin\Debug\net6.0\Contracts.dll
+P:\BaseCode\Services\Account\Query\Infratructure.Projections\bin\Debug\net6.0\Contracts.pdb
+P:\BaseCode\Services\Account\Query\Infratructure.Projections\bin\Debug\net6.0\Application.pdb
+P:\BaseCode\Services\Account\Query\Infratructure.Projections\obj\Debug\net6.0\Infratructure.Projections.csproj.AssemblyReference.cache
+P:\BaseCode\Services\Account\Query\Infratructure.Projections\obj\Debug\net6.0\Infratructure.Projections.GeneratedMSBuildEditorConfig.editorconfig
+P:\BaseCode\Services\Account\Query\Infratructure.Projections\obj\Debug\net6.0\Infratructure.Projections.AssemblyInfoInputs.cache
+P:\BaseCode\Services\Account\Query\Infratructure.Projections\obj\Debug\net6.0\Infratructure.Projections.AssemblyInfo.cs
+P:\BaseCode\Services\Account\Query\Infratructure.Projections\obj\Debug\net6.0\Infratructure.Projections.csproj.CoreCompileInputs.cache
+P:\BaseCode\Services\Account\Query\Infratructure.Projections\obj\Debug\net6.0\Infratructure.Projections.csproj.CopyComplete
+P:\BaseCode\Services\Account\Query\Infratructure.Projections\obj\Debug\net6.0\Infratructure.Projections.dll
+P:\BaseCode\Services\Account\Query\Infratructure.Projections\obj\Debug\net6.0\refint\Infratructure.Projections.dll
+P:\BaseCode\Services\Account\Query\Infratructure.Projections\obj\Debug\net6.0\Infratructure.Projections.pdb
+P:\BaseCode\Services\Account\Query\Infratructure.Projections\obj\Debug\net6.0\ref\Infratructure.Projections.dll

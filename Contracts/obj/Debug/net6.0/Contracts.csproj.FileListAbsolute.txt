@@ -1,0 +1,12 @@
+P:\BaseCode\Contracts\bin\Debug\net6.0\Contracts.deps.json
+P:\BaseCode\Contracts\bin\Debug\net6.0\Contracts.dll
+P:\BaseCode\Contracts\bin\Debug\net6.0\Contracts.pdb
+P:\BaseCode\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+P:\BaseCode\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+P:\BaseCode\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+P:\BaseCode\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+P:\BaseCode\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+P:\BaseCode\Contracts\obj\Debug\net6.0\Contracts.dll
+P:\BaseCode\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+P:\BaseCode\Contracts\obj\Debug\net6.0\Contracts.pdb
+P:\BaseCode\Contracts\obj\Debug\net6.0\ref\Contracts.dll

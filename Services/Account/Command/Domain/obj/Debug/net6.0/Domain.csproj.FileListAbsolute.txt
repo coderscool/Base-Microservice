@@ -1,0 +1,15 @@
+P:\BaseCode\Services\Account\Command\Domain\bin\Debug\net6.0\Domain.deps.json
+P:\BaseCode\Services\Account\Command\Domain\bin\Debug\net6.0\Domain.dll
+P:\BaseCode\Services\Account\Command\Domain\bin\Debug\net6.0\Domain.pdb
+P:\BaseCode\Services\Account\Command\Domain\bin\Debug\net6.0\Contracts.dll
+P:\BaseCode\Services\Account\Command\Domain\bin\Debug\net6.0\Contracts.pdb
+P:\BaseCode\Services\Account\Command\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+P:\BaseCode\Services\Account\Command\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+P:\BaseCode\Services\Account\Command\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+P:\BaseCode\Services\Account\Command\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+P:\BaseCode\Services\Account\Command\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+P:\BaseCode\Services\Account\Command\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+P:\BaseCode\Services\Account\Command\Domain\obj\Debug\net6.0\Domain.dll
+P:\BaseCode\Services\Account\Command\Domain\obj\Debug\net6.0\refint\Domain.dll
+P:\BaseCode\Services\Account\Command\Domain\obj\Debug\net6.0\Domain.pdb
+P:\BaseCode\Services\Account\Command\Domain\obj\Debug\net6.0\ref\Domain.dll

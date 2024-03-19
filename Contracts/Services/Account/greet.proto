@@ -1,0 +1,34 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService1";
+
+package greet;
+
+// The greeting service definition.
+service Greeter {
+  // Sends a greeting
+  rpc GetAccountDetails (GetAccountDetailRequest) returns (GetAccountDetailReply);
+  rpc GetListAccount (GetListAccountRequest) returns (GetListAccountReply);
+}
+
+// The request message containing the user's name.
+message GetAccountDetailRequest {
+  string Id = 1;
+}
+
+// The response message containing the greetings.
+message GetAccountDetailReply {
+  string UserName = 1;
+  string PassWord = 2;
+  string NickName = 3;
+  string Role = 4;
+}
+
+message GetListAccountRequest {
+	int32 Page = 1;
+}
+
+message GetListAccountReply {
+	int32 Page = 1;
+	repeated GetAccountDetailReply Account = 2;
+}

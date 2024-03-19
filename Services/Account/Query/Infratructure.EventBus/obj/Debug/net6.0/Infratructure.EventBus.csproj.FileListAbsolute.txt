@@ -1,0 +1,17 @@
+P:\BaseCode\Services\Account\Query\Infratructure.EventBus\bin\Debug\net6.0\Infratructure.EventBus.deps.json
+P:\BaseCode\Services\Account\Query\Infratructure.EventBus\bin\Debug\net6.0\Infratructure.EventBus.dll
+P:\BaseCode\Services\Account\Query\Infratructure.EventBus\bin\Debug\net6.0\Infratructure.EventBus.pdb
+P:\BaseCode\Services\Account\Query\Infratructure.EventBus\bin\Debug\net6.0\Application.dll
+P:\BaseCode\Services\Account\Query\Infratructure.EventBus\bin\Debug\net6.0\Contracts.dll
+P:\BaseCode\Services\Account\Query\Infratructure.EventBus\bin\Debug\net6.0\Contracts.pdb
+P:\BaseCode\Services\Account\Query\Infratructure.EventBus\bin\Debug\net6.0\Application.pdb
+P:\BaseCode\Services\Account\Query\Infratructure.EventBus\obj\Debug\net6.0\Infratructure.EventBus.csproj.AssemblyReference.cache
+P:\BaseCode\Services\Account\Query\Infratructure.EventBus\obj\Debug\net6.0\Infratructure.EventBus.GeneratedMSBuildEditorConfig.editorconfig
+P:\BaseCode\Services\Account\Query\Infratructure.EventBus\obj\Debug\net6.0\Infratructure.EventBus.AssemblyInfoInputs.cache
+P:\BaseCode\Services\Account\Query\Infratructure.EventBus\obj\Debug\net6.0\Infratructure.EventBus.AssemblyInfo.cs
+P:\BaseCode\Services\Account\Query\Infratructure.EventBus\obj\Debug\net6.0\Infratructure.EventBus.csproj.CoreCompileInputs.cache
+P:\BaseCode\Services\Account\Query\Infratructure.EventBus\obj\Debug\net6.0\Infratructure.EventBus.csproj.CopyComplete
+P:\BaseCode\Services\Account\Query\Infratructure.EventBus\obj\Debug\net6.0\Infratructure.EventBus.dll
+P:\BaseCode\Services\Account\Query\Infratructure.EventBus\obj\Debug\net6.0\refint\Infratructure.EventBus.dll
+P:\BaseCode\Services\Account\Query\Infratructure.EventBus\obj\Debug\net6.0\Infratructure.EventBus.pdb
+P:\BaseCode\Services\Account\Query\Infratructure.EventBus\obj\Debug\net6.0\ref\Infratructure.EventBus.dll
